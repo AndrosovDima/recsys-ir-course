@@ -12,7 +12,7 @@ Recommender Systems & Information Retrieval course for AI Masters.
 
 [week_04](./materials/week_04): Recommendation systems, collaborative filtering methods.
 
-[week_05](./materials/week_04): Recommendation systems, content filtering methods, hybrid methods.
+[week_05](./materials/week_05): Recommendation systems, content filtering methods, hybrid methods.
 
 ## Homeworks
 
