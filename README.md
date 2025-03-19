@@ -12,6 +12,8 @@ Recommender Systems & Information Retrieval course for AI Masters.
 
 [week_04](./materials/week_04): Recommendation systems, collaborative filtering methods.
 
+[week_05](./materials/week_04): Recommendation systems, content filtering methods, hybrid methods.
+
 ## Homeworks
 
 [hw_1](./homeworks/hw_1): Search engine with positional inverted index and proximity operators.
