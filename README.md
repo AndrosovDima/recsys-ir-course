@@ -14,6 +14,8 @@ Recommender Systems & Information Retrieval course for AI Masters.
 
 [week_05](./materials/week_05): Recommendation systems, content filtering methods, hybrid methods.
 
+[week_06](./materials/week_06): LTR, Multilevel systems
+
 ## Homeworks
 
 [hw_1](./homeworks/hw_1): Search engine with positional inverted index and proximity operators.
