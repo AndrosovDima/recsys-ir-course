@@ -16,6 +16,8 @@ Recommender Systems & Information Retrieval course for AI Masters.
 
 [week_06](./materials/week_06): LTR, Multilevel systems
 
+[week_07](./materials/week_07): Neural networks for Information Retrieval
+
 ## Homeworks
 
 [hw_1](./homeworks/hw_1): Search engine with positional inverted index and proximity operators.
