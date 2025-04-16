@@ -18,6 +18,8 @@ Recommender Systems & Information Retrieval course for AI Masters.
 
 [week_07](./materials/week_07): Neural networks for Information Retrieval
 
+[week_08](./materials/week_08): Sequential Recommendation
+
 ## Homeworks
 
 [hw_1](./homeworks/hw_1): Search engine with positional inverted index and proximity operators.
