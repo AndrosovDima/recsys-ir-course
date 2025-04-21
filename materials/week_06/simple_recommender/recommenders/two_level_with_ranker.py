@@ -105,5 +105,5 @@ class TwoLevelRanker(BaseRecommender):
             .head(top_k)
         )
         candidates_df_pd['rank'] = np.arange(1, candidates_df_pd.shape[0] + 1)
-        return candidates_df_pd
-
+        candidates_df_pd['item_id'] = candidates_df_pd['product_id']
+        return candidates_df_pd[['user_id', 'item_id', 'rank']]
