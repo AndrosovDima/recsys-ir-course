@@ -20,6 +20,14 @@ Recommender Systems & Information Retrieval course for AI Masters.
 
 [week_08](./materials/week_08): Sequential Recommendation
 
+[week_09](./materials/week_09): Diversity
+
+[week_10](./materials/week_10): Recsys challenges
+
+[week_11](./materials/week_11): Graph recommendation
+
+[week_12](./materials/week_12): Query autocompletion
+
 ## Homeworks
 
 [hw_1](./homeworks/hw_1): Search engine with positional inverted index and proximity operators.
